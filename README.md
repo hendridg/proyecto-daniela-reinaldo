@@ -1,2 +1,2 @@
-# proyecto-daniela-reinaldo
+# proyecto-daniela-reinaldo.
 Proyecto Vanilla
